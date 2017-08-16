@@ -1,5 +1,5 @@
 { 
-	"name": "activecampaign/api-php",
+	"name": "haytiko/activecampaign",
 	"description": "Official PHP wrapper for the ActiveCampaign API.",
 	"keywords": ["activecampaign", "email-marketing", "newsletter", "marketing-automation", "subscribe", "forms", "emails", "automation"],
 	"homepage": "https://github.com/ActiveCampaign/activecampaign-api-php",
